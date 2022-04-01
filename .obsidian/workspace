@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "9a0780749afe3857",
+    "type": "split",
+    "children": [
+      {
+        "id": "0594d9c618c97630",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "09-Templates/草稿模板.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b7792287b534ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6363abc048f6ce4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8032c06021e4eb7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45f6d7aa89d54608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dced403ee92ea596",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec4400866317b5f8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5df654cbaf6fb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2c258e148dd3ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5badd1e1bf045b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "09-Templates/草稿模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e40ef3f19a61f917",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f95decc6c782ada0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09-Templates/草稿模板.md"
+              }
+            }
+          },
+          {
+            "id": "f60d156efb158abe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "active": "0594d9c618c97630",
+  "lastOpenFiles": [
+    "09-Templates/草稿模板.md",
+    "README.md",
+    "01-Diary/日志存档/2022-03-22.md",
+    "00-MOC/本周事务表.md",
+    "09-Templates/每月总结.md",
+    "09-Templates/每周小结.md",
+    "09-Templates/日志模板.md",
+    "00-MOC/作息时间表.md",
+    "01-Diary/月总结/2022-03-22_月总结.md",
+    "00-MOC/任务看板.md"
+  ]
+}

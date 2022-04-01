@@ -1,0 +1,160 @@
+{
+  "workspaces": {
+    "文献阅读": {
+      "main": {
+        "id": "9a0780749afe3857",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d255cdd69daa9bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-MOC/阅读清单.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "169762c0897285b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "66a927cf4be47876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3090910a3bbb4bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d4cc5673d41093ba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "af328bc8c7dd1264",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 207,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6e7011190a6a4416",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c47daab7a7f6b09",
+            "type": "tabs",
+            "dimension": 40.609137055837564,
+            "children": [
+              {
+                "id": "ec1d354533e6cbd2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0d92b31ac7bc3511",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b4bbb6d3769d62dc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f101d806a54a17c",
+            "type": "tabs",
+            "dimension": 59.390862944162436,
+            "children": [
+              {
+                "id": "450ad81cf27a4dff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00-MOC/阅读清单.md"
+                  }
+                }
+              },
+              {
+                "id": "227681cc38450669",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00-MOC/阅读清单.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "60ed30d1cc6d4c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245
+      },
+      "active": "0d255cdd69daa9bf"
+    }
+  },
+  "active": "文献阅读"
+}

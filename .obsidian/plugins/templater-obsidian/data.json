@@ -1,0 +1,45 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "09-Templates",
+  "templates_pairs": [
+    [
+      "toDOCX",
+      "python ./02-Reading/pdfs/paper2docx.py <% tp.file.path() %>"
+    ],
+    [
+      "annotate_pdf",
+      "python ./08-Assets/Scripts/annotate_pdf.py <% tp.file.path() %>\n"
+    ],
+    [
+      "fetch_paper_info",
+      "python ./08-Assets/Scripts/fetch_paper_info.py <% tp.file.path() %>"
+    ],
+    [
+      "export_slides_embedding",
+      "python ./08-Assets/Scripts/export_slides_embedding.py <% tp.file.path() %>"
+    ],
+    [
+      "week_to_project",
+      "python ./08-Assets/Scripts/week_to_project.py <% tp.file.path() %>"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01-Diary/本周事务",
+      "template": "09-Templates/草稿模板.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "09-Templates/草稿模板.md"
+  ]
+}
